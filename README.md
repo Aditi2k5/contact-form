@@ -10,3 +10,8 @@ The only requirement to effectively run this in web is to install react, lucide-
 To start the app on localserver: Go to vscode terminal, enter cd contact-form, and npm start.
 The app should be running on port 3000 by default.
 
+![Screenshot 2024-11-17 165444](https://github.com/user-attachments/assets/b5a39ffc-135d-4084-9745-9b6907dbe4d7)
+![Screenshot 2024-11-17 165450](https://github.com/user-attachments/assets/9ad98e9a-6b52-4799-a58f-231c3bae98d9)
+![image](https://github.com/user-attachments/assets/5e521d3a-5c14-4e28-8f86-1596cdba4ea6)
+![image](https://github.com/user-attachments/assets/a74eec1c-a6d8-4d9f-8ce2-ab3cc5268f32)
+![image](https://github.com/user-attachments/assets/8c1931b1-9eb2-43ac-a599-993f5b01b5b2)
